@@ -1,7 +1,7 @@
 👋 Hi, I'm Anand Singh
-🚀 Flutter Developer • Node.js Backend Developer • DevOps Learner
+🚀 Flutter Developer • Node.js Backend Developer 
 
-💡 I build fast, scalable, offline-first mobile apps and backend systems with clean architecture and strong problem-solving.
+- 🌱 I’m currently learning DevOps Learner
 
 🔥 About Me
 
@@ -18,26 +18,12 @@ Flutter
 
 GetX • Provider • BLoC
 
-Firebase
-
-Clean Architecture
 
 🖥 Backend Development
 
 Node.js
 
 Express.js
-
-
-📚 Currently Learning
-
-Docker
-
-CI/CD pipelines
-
-Cloud deployments (Linux, PM2, Nginx)
-
-API optimizations
 
 
 🤝 Looking to Collaborate On
