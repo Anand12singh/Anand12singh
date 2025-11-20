@@ -28,37 +28,6 @@ Node.js
 
 Express.js
 
-Sequelize ORM
-
-PostgreSQL • MySQL
-
-JWT • Middleware • File Uploads
-
-⚙ DevOps & Tools
-
-Docker (learning)
-
-CI/CD with GitHub Actions (learning)
-
-Git & GitHub
-
-Postman
-
-VS Code • Android Studio
-
-🚀 What I Do
-
-Develop high-performance Flutter apps
-
-Create stable & scalable Node.js REST APIs
-
-Implement offline-first sync (SQLite + SharedPreferences)
-
-Build multi-step forms, workflow screens, dashboards
-
-Integrate PDF generation, background location, compression
-
-Design chatbots with multilingual support
 
 📚 Currently Learning
 
