@@ -1,5 +1,6 @@
 👋 Hi, I'm Anand Singh
-🚀 Flutter Developer • Node.js Backend Developer 
+
+- 🔭 I’m currently working on Flutter and Node.js
 
 - 🌱 I’m currently learning DevOps Learner
 
